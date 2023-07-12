@@ -1,6 +1,6 @@
 {
   "name": "fix.css",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This npm style package provides a basic set of CSS rules to enhance the appearance and behavior of HTML elements on a website. The included rules address the box-sizing model, maximum width for images, 3D transformation of specific elements, and adjustments for links and image dragging in WebKit-based web browsers.",
   "main": "fix.css",
   "style": "fix.css",
