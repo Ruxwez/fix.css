@@ -1,6 +1,6 @@
 # fix.css
 
-fix.css allows us to set default styles for our web pages.
+This npm style package provides a basic set of CSS rules to enhance the appearance and behavior of HTML elements on a website. The included rules address the box-sizing model, maximum width for images, 3D transformation of specific elements, and adjustmen
 
 ## NPM 
 ```
